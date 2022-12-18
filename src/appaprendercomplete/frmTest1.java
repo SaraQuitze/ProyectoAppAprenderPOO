@@ -21,6 +21,8 @@ public class frmTest1 extends javax.swing.JFrame {
     
     public frmTest1() {
         initComponents();
+        //Para que la ventana aparezca en la mitad de la pantalla
+        setLocationRelativeTo(null);
         
         respuesta1.add(rbtA1);
         respuesta1.add(rbtV1);
