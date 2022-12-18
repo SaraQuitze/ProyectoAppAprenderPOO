@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 package appaprendercomplete;
 
 import MetodosSQL.MetodosSQL;
@@ -9,7 +6,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author ACER
+ * @author Sara Zarama
  */
 public class frmLogin extends javax.swing.JFrame {
 

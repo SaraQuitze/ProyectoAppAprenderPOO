@@ -1,12 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 package appaprendercomplete;
 
 /**
  *
- * @author ACER
+ * @author Sara Zarama
  */
 public class frmSistema extends javax.swing.JFrame {
 
@@ -15,6 +12,8 @@ public class frmSistema extends javax.swing.JFrame {
      */
     public frmSistema() {
         initComponents();
+        //Para que la ventana aparezca en la mitad de la pantalla
+        setLocationRelativeTo(null);
     }
 
     /**
